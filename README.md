@@ -9,9 +9,9 @@
 ## 🔗 Connect With Me
 - 📧 Email: vaishnavi9853@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/vaishnavi-singh-parihar-42a727250/  
-- 🐙 GitHub: https://github.com/your-username  
-- ⚔️ Codeforces: https://codeforces.com/profile/your-handle  
-- 🧩 LeetCode: https://leetcode.com/your-handle  
+- 🐙 GitHub: https://github.com/vaishnavi-vsp-droid 
+- ⚔️ Codeforces: https://codeforces.com/profile/Vaishnavi.vsp  
+- 🧩 LeetCode: https://leetcode.com/u/vaishnavi_vsp/
 
 ---
 
