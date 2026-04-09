@@ -11,7 +11,7 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/vaishnavi-singh-parihar-42a727250/  
 - 🐙 GitHub: https://github.com/vaishnavi-vsp-droid  
 - ⚔️ Codeforces: https://codeforces.com/profile/Vaishnavi.vsp  
-- 🧩 LeetCode: https://leetcode.com/u/vaishnavi_vsp/   
+ 
 
 ---
 
